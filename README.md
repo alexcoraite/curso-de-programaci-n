@@ -1,2 +1,1 @@
-# curso-de-programaci-n
-este es un repositorio de prueba de curso de programación
+este es un proyecto de prueba de como crear un repositorio y clonarlo desde github a mi computadora
